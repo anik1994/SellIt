@@ -58,16 +58,16 @@
     <Compile Include="AccountsControl\AdminAccounts.Designer.cs">
       <DependentUpon>AdminAccounts.cs</DependentUpon>
     </Compile>
-    <Compile Include="Barcode.cs">
+    <Compile Include="Forms\Barcode.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Barcode.Designer.cs">
+    <Compile Include="Forms\Barcode.Designer.cs">
       <DependentUpon>Barcode.cs</DependentUpon>
     </Compile>
-    <Compile Include="Calculator.cs">
+    <Compile Include="Forms\Calculator.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Calculator.Designer.cs">
+    <Compile Include="Forms\Calculator.Designer.cs">
       <DependentUpon>Calculator.cs</DependentUpon>
     </Compile>
     <Compile Include="AccountsControl\CashierAccounts.cs">
@@ -83,28 +83,28 @@
     <Compile Include="AccountsControl\CustomerAccounts.Designer.cs">
       <DependentUpon>CustomerAccounts.cs</DependentUpon>
     </Compile>
-    <Compile Include="CustomerView.cs">
+    <Compile Include="Forms\CustomerView.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CustomerView.Designer.cs">
+    <Compile Include="Forms\CustomerView.Designer.cs">
       <DependentUpon>CustomerView.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login.cs">
+    <Compile Include="Forms\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
+    <Compile Include="Forms\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="PasswordChange.cs">
+    <Compile Include="Forms\PasswordChange.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PasswordChange.Designer.cs">
+    <Compile Include="Forms\PasswordChange.Designer.cs">
       <DependentUpon>PasswordChange.cs</DependentUpon>
     </Compile>
-    <Compile Include="Products.cs">
+    <Compile Include="Forms\Products.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Products.Designer.cs">
+    <Compile Include="Forms\Products.Designer.cs">
       <DependentUpon>Products.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -120,42 +120,42 @@
     <Compile Include="AccountsControl\SelectAccountType.Designer.cs">
       <DependentUpon>SelectAccountType.cs</DependentUpon>
     </Compile>
-    <Compile Include="SearchProducts.cs">
+    <Compile Include="Forms\SearchProducts.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SearchProducts.Designer.cs">
+    <Compile Include="Forms\SearchProducts.Designer.cs">
       <DependentUpon>SearchProducts.cs</DependentUpon>
     </Compile>
     <Compile Include="DAO\SelltblDAO.cs" />
     <Compile Include="DTO\SelltblDTO.cs" />
-    <Compile Include="SplashScreen.cs">
+    <Compile Include="Forms\SplashScreen.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SplashScreen.Designer.cs">
+    <Compile Include="Forms\SplashScreen.Designer.cs">
       <DependentUpon>SplashScreen.cs</DependentUpon>
     </Compile>
     <Compile Include="DAO\StockDAO.cs" />
     <Compile Include="DTO\StockDTO.cs" />
     <Compile Include="DAO\UserinfoDAO.cs" />
     <Compile Include="DTO\UserinfoDTO.cs" />
-    <Compile Include="VatControl.cs">
+    <Compile Include="Forms\VatControl.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VatControl.Designer.cs">
+    <Compile Include="Forms\VatControl.Designer.cs">
       <DependentUpon>VatControl.cs</DependentUpon>
     </Compile>
     <Compile Include="DAO\VatinfoDAO.cs" />
     <Compile Include="DTO\VatinfoDTO.cs" />
-    <Compile Include="WelcomeAdmin.cs">
+    <Compile Include="Forms\WelcomeAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="WelcomeAdmin.Designer.cs">
+    <Compile Include="Forms\WelcomeAdmin.Designer.cs">
       <DependentUpon>WelcomeAdmin.cs</DependentUpon>
     </Compile>
-    <Compile Include="WelcomeCashier.cs">
+    <Compile Include="Forms\WelcomeCashier.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="WelcomeCashier.Designer.cs">
+    <Compile Include="Forms\WelcomeCashier.Designer.cs">
       <DependentUpon>WelcomeCashier.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="AccountsControl\AdminAccounts.resx">
@@ -167,22 +167,22 @@
     <EmbeddedResource Include="AccountsControl\CustomerAccounts.resx">
       <DependentUpon>CustomerAccounts.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Barcode.resx">
+    <EmbeddedResource Include="Forms\Barcode.resx">
       <DependentUpon>Barcode.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Calculator.resx">
+    <EmbeddedResource Include="Forms\Calculator.resx">
       <DependentUpon>Calculator.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CustomerView.resx">
+    <EmbeddedResource Include="Forms\CustomerView.resx">
       <DependentUpon>CustomerView.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
+    <EmbeddedResource Include="Forms\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PasswordChange.resx">
+    <EmbeddedResource Include="Forms\PasswordChange.resx">
       <DependentUpon>PasswordChange.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Products.resx">
+    <EmbeddedResource Include="Forms\Products.resx">
       <DependentUpon>Products.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -193,19 +193,19 @@
     <EmbeddedResource Include="AccountsControl\SelectAccountType.resx">
       <DependentUpon>SelectAccountType.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SearchProducts.resx">
+    <EmbeddedResource Include="Forms\SearchProducts.resx">
       <DependentUpon>SearchProducts.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SplashScreen.resx">
+    <EmbeddedResource Include="Forms\SplashScreen.resx">
       <DependentUpon>SplashScreen.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VatControl.resx">
+    <EmbeddedResource Include="Forms\VatControl.resx">
       <DependentUpon>VatControl.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="WelcomeAdmin.resx">
+    <EmbeddedResource Include="Forms\WelcomeAdmin.resx">
       <DependentUpon>WelcomeAdmin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="WelcomeCashier.resx">
+    <EmbeddedResource Include="Forms\WelcomeCashier.resx">
       <DependentUpon>WelcomeCashier.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">

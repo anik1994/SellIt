@@ -43,3 +43,5 @@ C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\SellIt60Percent\SellIt\Sel
 C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\SellIt60Percent\SellIt\SellIt\obj\x86\Debug\SellIt.SearchProducts.resources
 C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\SellIt60Percent\SellIt\SellIt\bin\Debug\itextsharp.dll
 C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\SellIt60Percent\SellIt\SellIt\obj\x86\Debug\SellIt.CustomerView.resources
+C:\Users\Lenovo\Documents\GitHub\SellIt\DesktopVersion\SellIt\obj\x86\Debug\SellIt.exe
+C:\Users\Lenovo\Documents\GitHub\SellIt\DesktopVersion\SellIt\obj\x86\Debug\SellIt.pdb
