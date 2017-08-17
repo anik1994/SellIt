@@ -1,0 +1,5 @@
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\bin\ResponsiveWebsite2.dll
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\bin\ResponsiveWebsite2.pdb
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\obj\Debug\ResponsiveWebsite2.dll
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\obj\Debug\ResponsiveWebsite2.pdb
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\bin\MySql.Data.dll
